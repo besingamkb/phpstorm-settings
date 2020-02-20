@@ -1,0 +1,9 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+</keymap>
