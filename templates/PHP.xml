@@ -1,8 +1,5 @@
 <templateSet group="PHP">
-  <template name="it" value="/** @test */&#10;public function $NAME$()&#10;{&#10;    $END$&#10;}" description="php unit test" toReformat="false" toShortenFQNames="true">
+  <template name="it" value="/** @test */&#10;public function $NAME$()&#10;{&#10;    $END$&#10;}" description="it can be tested" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
   </template>
 </templateSet>
