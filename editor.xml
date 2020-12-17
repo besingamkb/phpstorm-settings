@@ -4,11 +4,14 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
-    <option name="FONT_FAMILY" value="Fira Code Retina" />
+    <option name="FONT_FAMILY" value="Fira Code" />
     <option name="LINE_SPACING" value="1.5" />
-    <option name="SECONDARY_FONT_FAMILY" value="Fira Code" />
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
