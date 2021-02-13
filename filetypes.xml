@@ -3,10 +3,11 @@
     <extensionMap>
       <mapping pattern="index" type="PHP" />
       <mapping ext="stub" type="PHP" />
+      <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
       <mapping pattern="eloquent," type="PLAIN_TEXT" />
       <mapping pattern="alternative-delimiter" type="PLAIN_TEXT" />
-      <mapping pattern="create_email_campaigns_table" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.ecs" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
