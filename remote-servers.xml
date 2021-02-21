@@ -12,5 +12,17 @@
         <option name="certificatesPath" />
       </configuration>
     </remote-server>
+    <remote-server name="Docker3" type="docker">
+      <configuration>
+        <option name="apiUrl" value="npipe:////./pipe/docker_engine" />
+        <option name="certificatesPath" />
+      </configuration>
+    </remote-server>
+    <remote-server name="Docker4" type="docker">
+      <configuration>
+        <option name="apiUrl" value="npipe:////./pipe/docker_engine" />
+        <option name="certificatesPath" />
+      </configuration>
+    </remote-server>
   </component>
 </application>
