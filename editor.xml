@@ -7,9 +7,6 @@
     <option name="FONT_FAMILY" value="Fira Code" />
     <option name="LINE_SPACING" value="1.5" />
   </component>
-  <component name="EditorSettings">
-    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
-  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
